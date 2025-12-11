@@ -89,8 +89,8 @@ kann gerne Kontakt aufgenommen werden:
 
 📧 E-Mail: etienne.p@hotmail.de
 
-Ich freue mich über seriösen, fachbezogenen Austausch.
 
 ---
 
 Danke für das Interesse — weitere Veröffentlichungen können zu einem späteren Zeitpunkt folgen.
+
