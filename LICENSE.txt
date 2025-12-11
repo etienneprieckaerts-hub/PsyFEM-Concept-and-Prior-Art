@@ -1,12 +1,89 @@
-Copyright © 2025 Étienne Prieckaerts
-All Rights Reserved.
+PROPRIETARY RESEARCH DISCLOSURE LICENSE (PRDL-1.0)
 
-This repository constitutes a defensive publication of conceptual ideas related
-to the PsyFEM system.
-No part of the contained texts or documents may be copied, used, implemented,
-redistributed, or incorporated into any software, research, product, or derivative
-work without explicit written permission from the author.
+(Non-Open-Source / Defensive Publication License)
 
-This is NOT an open-source license.
-No rights are granted to use the PsyFEM concept, its structure, or any related
-intellectual property beyond viewing the public documents in this repository.
+Copyright (c) 2025 Étienne Prieckaerts.
+All rights reserved.
+
+This repository constitutes a research disclosure (“Defensive Publication”) for the concept known as PsyFEM / Psy-FEM-5D.
+It is not open source. No rights are granted beyond the explicitly stated permissions below.
+
+1. Permitted Actions (Limited Rights)
+
+You are permitted to:
+
+Read the contents of this repository.
+
+Share a link to this repository in its original, unmodified form.
+
+Cite this repository as a conceptual disclosure (e.g., in academic work), provided that the author is credited.
+
+No other rights are granted.
+
+2. Prohibited Actions (Strict Restrictions)
+
+Unless you have explicit written permission from the author, you are NOT permitted to:
+
+Use the concept or any part of it for technical implementation, prototyping, research, development, or experimentation.
+
+Reproduce, copy, or redistribute the content (in whole or in part), except for linking as allowed above.
+
+Modify, translate, transform, or adapt the content.
+
+Implement, simulate, or reverse-engineer any mechanisms, processes, or system behaviors described in this disclosure.
+
+Create derivative works based on the concepts presented.
+
+Apply the ideas commercially, including but not limited to:
+
+software products
+
+AI systems
+
+analytical tools
+
+business processes
+
+research programs
+
+File patents or patent applications that use, extend, or are based on any idea described herein.
+
+Any such actions constitute a violation of this license.
+
+3. Purpose of This License
+
+This repository serves as a Defensive Publication, meaning:
+
+It documents authorship and conceptual priority.
+
+It prevents others from claiming novelty over the core ideas contained herein.
+
+It does not grant others the right to implement or use these ideas.
+
+This work remains proprietary intellectual property of the author.
+
+4. No Warranty / No Liability
+
+This research disclosure is provided “as is”, without warranties of any kind, express or implied.
+The author is not liable for any use, misuse, or interpretation of the content.
+
+5. No Implied Rights
+
+Nothing in this license should be interpreted as:
+
+granting permission to use the ideas commercially or technically,
+
+placing the work in the public domain,
+
+permitting open-source use,
+
+or waiving any of the author's intellectual property rights.
+
+6. Contact for Licensing
+
+To request commercial, research, or technical usage rights, please contact:
+
+Étienne Prieckaerts
+(Author & Rights Holder)
+
+END OF LICENSE
