@@ -1,77 +1,79 @@
-PsyFEM — Concept Overview & Defensive Publication
+# PsyFEM – Concept Overview (Public Version)
 
-Author: Étienne Prieckaerts
-Copyright © 2025 — All Rights Reserved
+**Author:** Étienne Prieckaerts  
+**First published:** 2025  
+**Status:** Early conceptual publication
 
-PsyFEM ist ein abstraktes Modell zur Darstellung dynamischer Zustände in einem
-mehrdimensionalen Knoten-Netzwerk, das Konzepte wie „Mood“, episodisches Gedächtnis,
-Knotenaktivierung und systemische Musterbildung beschreibt.
+---
 
-Dieses Repository dient nicht der Veröffentlichung von technischen Details oder
-implementierbaren Algorithmen.
-Es stellt ausschließlich eine defensive Veröffentlichung (Prior Art) dar, um die
-Urheberschaft und Priorität des Konzepts rechtlich nachvollziehbar zu dokumentieren.
+## 🔹 Was ist PsyFEM?
 
-🔹 Zweck dieses Repositories
+PsyFEM ist ein konzeptioneller Ansatz zur Beschreibung dynamischer Systeme in Form  
+eines Netzwerks aus Knoten, Zuständen und zeitabhängigen Einflüssen.  
+Das Modell verbindet Ideen aus:
 
-Schutz des geistigen Eigentums (Patente Dritter werden verhindert)
+- graphbasierten Strukturen  
+- mehrdimensionalen Zustandsvektoren  
+- episodischem Gedächtnis  
+- abstrakten Lern- und Verstärkungsmechanismen  
 
-Fachliche Sichtbarkeit des Konzepts in abstrakter Form
+Diese Veröffentlichung ist bewusst **abstrakt** gehalten.  
+Sie dient lediglich dazu, das Grundkonzept öffentlich zu dokumentieren.
 
-Bereitstellung einer offiziellen Referenz für spätere Kooperationen
+---
 
-Dokumentation der theoretischen Grundidee ohne Offenlegung der Funktionslogik
+## 🔹 Warum dieses Repository?
 
-🔹 High-Level-Konzept (abstrakt)
+Dies ist mein erstes öffentliches GitHub-Repository.  
+Ziel ist:
 
-PsyFEM beschreibt:
+- das Grundkonzept offiziell zugänglich zu machen  
+- die Urheberschaft zu dokumentieren  
+- späteren technischen Veröffentlichungen oder Projekten eine Basis zu geben  
 
-ein gerichtetes Graphmodell aus Knoten und Kanten
+Die vollständige technische Umsetzung ist **nicht Teil** dieser Veröffentlichung.
 
-mehrdimensionale Zustandsvektoren (z. B. 4D-Emotionen)
+---
 
-einen globalen Systemzustand („Mood“)
+## 🔹 Was hier veröffentlicht wird
 
-abstrakte Lern- bzw. Verstärkungsmechanismen
+- Eine **öffentliche Kurzbeschreibung** des Konzepts  
+- Eine **abstrakte Übersicht möglicher Anwendungsklassen** (optional, später)  
+- Keine Algorithmen  
+- Keine intern verwendeten Modelle  
+- Keine Implementierungsdetails  
 
-episodische Repräsentationen früherer Zustände
+Das vollständige System bleibt proprietär.
 
-optionale Diffusionsmechanismen im Netzwerk
+---
 
-Diese Beschreibung ist absichtlich oberflächlich und erlaubt keine Rekonstruktion
-des vollständigen Systems.
+## 🔹 Dokumente
 
-🔹 Nicht enthalten (Schutzbereich)
+### Bereits veröffentlicht:
+- `docs/PsyFEM_Concept_Publication.pdf`  
+  → kurze, abstrakte Darstellung des Konzepts
 
-Dieses Repository enthält keine:
+### Optional / später:
+- `docs/PsyFEM_Business_Usecases.pdf`  
+  → mögliche Anwendungsideen (nicht technisch)
 
-Implementierungsdetails
+---
 
-mathematischen Gleichungen
+## 🔹 Hinweis
 
-FEM-Modellierungen
+Dieses Repository stellt **keine Software** und **keine technische Dokumentation** dar.  
+Es dient nur der *konzeptionellen Veröffentlichung*.
 
-Lernregeln oder Parameter
+---
 
-dynamischen Systemgleichungen
+## 🔹 Lizenz / Nutzung
 
-Software-Architektur
+Alle Inhalte sind urheberrechtlich geschützt.  
+Die Dokumente dürfen angesehen, aber nicht kopiert, verwendet oder integriert werden,  
+sofern keine schriftliche Genehmigung des Autors vorliegt.  
+Siehe `LICENSE.txt`.
 
-Code-Fragmente
+---
 
-Die vollständige technische Version bleibt proprietär.
-
-🔹 Dokumente in diesem Repository
-
-docs/PsyFEM_Concept_Publication.pdf
-→ Offizielle öffentliche Kurzbeschreibung / Prior Art
-
-docs/PsyFEM_Business_Usecases.pdf
-→ Abstrakte Beispiele möglicher Anwendungsklassen
-
-🔹 Lizenz
-
-Dieses Repository ist nicht Open Source.
-Jegliche Nutzung des Konzepts, der Struktur oder der veröffentlichten Inhalte
-erfordert eine schriftliche Genehmigung des Autors.
-Siehe LICENSE.txt.
+Danke für das Interesse — das Projekt befindet sich noch in einem sehr frühen Stadium.  
+Weitere Veröffentlichungen folgen eventuell später.
