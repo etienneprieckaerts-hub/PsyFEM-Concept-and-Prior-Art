@@ -1,0 +1,12 @@
+Copyright © 2025 Étienne Prieckaerts
+All Rights Reserved.
+
+This repository constitutes a defensive publication of conceptual ideas related
+to the PsyFEM system.
+No part of the contained texts or documents may be copied, used, implemented,
+redistributed, or incorporated into any software, research, product, or derivative
+work without explicit written permission from the author.
+
+This is NOT an open-source license.
+No rights are granted to use the PsyFEM concept, its structure, or any related
+intellectual property beyond viewing the public documents in this repository.
