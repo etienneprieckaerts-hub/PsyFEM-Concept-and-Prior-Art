@@ -2,78 +2,95 @@
 
 **Author:** Étienne Prieckaerts  
 **First published:** 2025  
-**Status:** Early conceptual publication
+**Status:** Conceptual public release (summary only)
 
 ---
 
-## 🔹 Was ist PsyFEM?
+## 🔹 Überblick
 
-PsyFEM ist ein konzeptioneller Ansatz zur Beschreibung dynamischer Systeme in Form  
-eines Netzwerks aus Knoten, Zuständen und zeitabhängigen Einflüssen.  
-Das Modell verbindet Ideen aus:
+PsyFEM ist ein konzeptionelles Framework zur Beschreibung dynamischer Systeme  
+auf Basis eines Netzwerks aus Knoten, Zuständen und zeitabhängigen Einflüssen.  
+Der Ansatz kombiniert Elemente aus:
 
 - graphbasierten Strukturen  
-- mehrdimensionalen Zustandsvektoren  
-- episodischem Gedächtnis  
-- abstrakten Lern- und Verstärkungsmechanismen  
+- mehrdimensionalen Zustandsräumen  
+- episodischer Speicherung  
+- systemischen Lern- und Verstärkungsmechanismen  
 
-Diese Veröffentlichung ist bewusst **abstrakt** gehalten.  
-Sie dient lediglich dazu, das Grundkonzept öffentlich zu dokumentieren.
-
----
-
-## 🔹 Warum dieses Repository?
-
-Dies ist mein erstes öffentliches GitHub-Repository.  
-Ziel ist:
-
-- das Grundkonzept offiziell zugänglich zu machen  
-- die Urheberschaft zu dokumentieren  
-- späteren technischen Veröffentlichungen oder Projekten eine Basis zu geben  
-
-Die vollständige technische Umsetzung ist **nicht Teil** dieser Veröffentlichung.
+Diese Veröffentlichung stellt ausschließlich eine **abstrakte Kurzfassung** dar.  
+Sie dient der konzeptionellen Sichtbarkeit und der Dokumentation der Urheberschaft.
 
 ---
 
-## 🔹 Was hier veröffentlicht wird
+## 🔹 Zweck dieses Repositories
 
-- Eine **öffentliche Kurzbeschreibung** des Konzepts  
-- Eine **abstrakte Übersicht möglicher Anwendungsklassen** (optional, später)  
-- Keine Algorithmen  
-- Keine intern verwendeten Modelle  
-- Keine Implementierungsdetails  
+Dieses Repository dient dazu:
 
-Das vollständige System bleibt proprietär.
+- das Kernkonzept öffentlich sichtbar zu machen  
+- die Priorität der Idee zu dokumentieren  
+- eine Grundlage für spätere Veröffentlichungen oder Anwendungen zu schaffen  
+
+Eine technische Implementierung ist **nicht Bestandteil** dieser Veröffentlichung.
 
 ---
 
-## 🔹 Dokumente
+## 🔹 Status des theoretischen Modells
 
-### Bereits veröffentlicht:
-- `docs/PsyFEM_Concept_Publication.pdf`  
-  → kurze, abstrakte Darstellung des Konzepts
+Das zugrundeliegende konzeptionelle und mathematische Framework von PsyFEM  
+wurde bereits vollständig ausgearbeitet und liegt in einer detaillierten internen Spezifikation vor.  
+Diese öffentliche Version enthält bewusst nur eine **reduzierte, nicht-technische Zusammenfassung**.
 
-### Optional / später:
-- `docs/PsyFEM_Business_Usecases.pdf`  
-  → mögliche Anwendungsideen (nicht technisch)
+Das interne Modell definiert u. a.:
+
+- einen vollständigen multidimensionalen Zustandsraum  
+- Knoten- und Kantenstrukturen  
+- dynamische Kopplungsprinzipien  
+- episodische Mechanismen  
+- Lern- und Verstärkungslogiken  
+- systemische Architekturprinzipien  
+
+Diese Details bleiben **proprietär** und sind nicht Bestandteil des Repositories.  
+Eine Softwareimplementierung befindet sich unabhängig davon in Entwicklung.
+
+---
+
+## 🔹 Inhalt dieses Repositories
+
+- **PsyFEM_Concept_Publication.pdf**  
+  → abstrakte Konzeptdarstellung ohne technische Details  
+
+Optional / später:
+
+- **PsyFEM_Business_Usecases.pdf**  
+  → mögliche Anwendungsfelder (nicht technisch)
 
 ---
 
 ## 🔹 Hinweis
 
-Dieses Repository stellt **keine Software** und **keine technische Dokumentation** dar.  
-Es dient nur der *konzeptionellen Veröffentlichung*.
+Dieses Repository ist **keine Software** und beinhaltet keinerlei Implementierungsdetails.  
+Es dient ausschließlich der konzeptionellen Veröffentlichung und Prior-Art-Dokumentation.
 
 ---
 
 ## 🔹 Lizenz / Nutzung
 
 Alle Inhalte sind urheberrechtlich geschützt.  
-Die Dokumente dürfen angesehen, aber nicht kopiert, verwendet oder integriert werden,  
-sofern keine schriftliche Genehmigung des Autors vorliegt.  
+Die Nutzung, Reproduktion oder Integration ist ohne schriftliche Zustimmung des Autors  
+nicht gestattet.  
 Siehe `LICENSE.txt`.
 
 ---
 
-Danke für das Interesse — das Projekt befindet sich noch in einem sehr frühen Stadium.  
-Weitere Veröffentlichungen folgen eventuell später.
+## 🔹 Kontakt
+
+Für fachlichen Austausch oder Rückfragen zum Konzept 
+kann gerne Kontakt aufgenommen werden:
+
+📧 E-Mail: etienne.p@hotmail.de
+
+Ich freue mich über seriösen, fachbezogenen Austausch.
+
+---
+
+Danke für das Interesse — weitere Veröffentlichungen können zu einem späteren Zeitpunkt folgen.
