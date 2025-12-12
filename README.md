@@ -57,7 +57,15 @@ Eine Softwareimplementierung befindet sich unabhängig davon in Entwicklung.
 ## 🔹 Inhalt dieses Repositories
 
 - **PsyFEM_Concept_Publication.pdf**  
-  → abstrakte Konzeptdarstellung ohne technische Details  
+  → Abstrakte Konzeptdarstellung des PsyFEM-Systems ohne technische Implementierungsdetails.
+
+- **Technical_Overview_Whitepaper.pdf**  
+  → Überblicksdokument mit einer verständlichen, aber dennoch formalen Beschreibung der Architektur, der zentralen Systemkomponenten und der theoretischen Grundlagen von PsyFEM.
+
+
+
+
+
 
 Optional / später:
 
@@ -93,4 +101,5 @@ kann gerne Kontakt aufgenommen werden:
 ---
 
 Danke für das Interesse — weitere Veröffentlichungen können zu einem späteren Zeitpunkt folgen.
+
 
