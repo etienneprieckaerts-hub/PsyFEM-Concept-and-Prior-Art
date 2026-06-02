@@ -67,3 +67,37 @@ Fuer den gegenwaertigen oeffentlichen Stand sind massgeblich:
 - [Extended Public Technical Overview - June 2026](PsyFEM_Public_Technical_Overview_2026-06.pdf)
 - [Oeffentliche Evidenzbasis - Juni 2026](OEFFENTLICHE_EVIDENZBASIS_2026-06.md)
 - [Veroeffentlichungsgrenzen](VEROEFFENTLICHUNGSGRENZEN.md)
+
+## 6. Such-Tags zur oeffentlichen Einordnung
+
+Zur besseren thematischen Auffindbarkeit dieses Projektstands auf GitHub:
+Die Stichwoerter sind als Repository-Topics, in Release-Notizen oder in
+verlinkenden Beitraegen nutzbar.
+
+- `PsyFEM`
+- `persistent-memory-engine`
+- `deterministic-learning-system`
+- `graph-based-memory`
+- `episodic-memory`
+- `incremental-learning`
+- `multi-stage-condensation`
+- `adaptive-structures`
+- `ai-memory-research`
+- `private-prototype`
+- `prior-art-context`
+- `technical-disclosure`
+- `knowledge-engine`
+- `auditability`
+- `long-horizon-context`
+
+Empfohlene Hashtags fuer Ankuendigungen oder Verweise:
+
+- `#PsyFEM`
+- `#PersistentMemory`
+- `#GraphLearning`
+- `#EpisodicMemory`
+- `#IncrementalLearning`
+- `#KnowledgeEngine`
+- `#AIResearch`
+- `#PriorArt`
+- `#TechnicalDisclosure`
