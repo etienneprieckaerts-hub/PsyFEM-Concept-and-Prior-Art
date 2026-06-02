@@ -1,105 +1,84 @@
-# PsyFEM – Concept Overview (Public Version)
+# PsyFEM - Public Concept and Status Repository
 
-**Author:** Étienne Prieckaerts  
-**First published:** 2025  
-**Status:** Conceptual public release (summary only)
+**Author:** Étienne Prieckaerts<br>
+**First public release:** 2025<br>
+**Repository scope:** Curated public disclosure, not source code<br>
+**Current public status report:** June 2026
 
----
+## Overview
 
-## 🔹 Überblick
+PsyFEM is a proprietary, deterministic and persistent structure and memory engine for
+processing information over longer periods of time. Its conceptual basis combines
+graph-based representations, multidimensional state spaces, episodic input and
+multi-stage structural condensation.
 
-PsyFEM ist ein konzeptionelles Framework zur Beschreibung dynamischer Systeme  
-auf Basis eines Netzwerks aus Knoten, Zuständen und zeitabhängigen Einflüssen.  
-Der Ansatz kombiniert Elemente aus:
+This repository provides a deliberately limited public view. It documents the concept,
+its authorship and a carefully bounded implementation status without publishing source
+code or implementation-critical know-how.
 
-- graphbasierten Strukturen  
-- mehrdimensionalen Zustandsräumen  
-- episodischer Speicherung  
-- systemischen Lern- und Verstärkungsmechanismen  
+## Independent Project Context
 
-Diese Veröffentlichung stellt ausschließlich eine **abstrakte Kurzfassung** dar.  
-Sie dient der konzeptionellen Sichtbarkeit und der Dokumentation der Urheberschaft.
+PsyFEM is an independent private project developed by Étienne Prieckaerts alongside
+his bachelor's studies in mechanical engineering. The publicly documented path from
+the early concept and mathematical system documentation to the current technology
+prototype spans less than one year and was advanced by one developer.
 
----
+The public Git history begins on 11 December 2025. The June 2026 document set is the
+first comprehensive public documentation refresh. Earlier concept documents and a
+February 2026 interim status note remain traceable as historical snapshots, but they
+should not be read as the current technical assessment.
 
-## 🔹 Zweck dieses Repositories
+## What Is Publicly Disclosed
 
-Dieses Repository dient dazu:
+At a high level, PsyFEM:
 
-- das Kernkonzept öffentlich sichtbar zu machen  
-- die Priorität der Idee zu dokumentieren  
-- eine Grundlage für spätere Veröffentlichungen oder Anwendungen zu schaffen  
+- processes episodic or event-like input into a persistent working state;
+- derives structured relationships and higher-order representations over time;
+- separates operational processing from read-oriented analysis and reporting;
+- includes guarded adaptation paths and an external live-integration demonstrator;
+- is implemented as a functional technology prototype under active development.
 
-Eine technische Implementierung ist **nicht Bestandteil** dieser Veröffentlichung.
+A concise technical status report is available here:
 
----
+- [Public Technical Status Report - June 2026](docs/OEFFENTLICHER_TECHNISCHER_STATUSBERICHT_2026-06.md)
+- [Extended Public Technical Overview - June 2026](docs/PsyFEM_Public_Technical_Overview_2026-06.pdf)
 
-## 🔹 Status des theoretischen Modells
+## Deliberate Disclosure Boundary
 
-Das zugrundeliegende konzeptionelle und mathematische Framework von PsyFEM  
-wurde bereits vollständig ausgearbeitet und liegt in einer detaillierten internen Spezifikation vor.  
-Diese öffentliche Version enthält bewusst nur eine **reduzierte, nicht-technische Zusammenfassung**.
+This repository does not contain source code, exact algorithms, equations,
+parameterizations, internal data schemas, module maps, endpoint catalogs, private test
+material, benchmark datasets or operational artifacts.
 
-Das interne Modell definiert u. a.:
+The publication boundary is documented here:
 
-- einen vollständigen multidimensionalen Zustandsraum  
-- Knoten- und Kantenstrukturen  
-- dynamische Kopplungsprinzipien  
-- episodische Mechanismen  
-- Lern- und Verstärkungslogiken  
-- systemische Architekturprinzipien  
+- [Publication Boundaries](docs/VEROEFFENTLICHUNGSGRENZEN.md)
+- [Publication and IP Notice](docs/PUBLICATION_AND_IP_NOTICE.md)
 
-Diese Details bleiben **proprietär** und sind nicht Bestandteil des Repositories.  
-Eine Softwareimplementierung befindet sich unabhängig davon in Entwicklung.
+## Public Documents
 
----
+- [Document Register](docs/DOKUMENTENREGISTER.md)
+- [Extended Public Technical Overview - June 2026](docs/PsyFEM_Public_Technical_Overview_2026-06.pdf)
+- [Public Evidence Basis - June 2026](docs/OEFFENTLICHE_EVIDENZBASIS_2026-06.md)
+- [Historical Version Context](docs/HISTORISCHE_EINORDNUNG.md)
+- [Historical Public Documents](docs/archive/README.md)
+- [Maintenance Guide for the Public Repository](docs/PFLEGEHINWEISE_OEFFENTLICHES_REPOSITORY.md)
 
-## 🔹 Inhalt dieses Repositories
+## Important Notice
 
-- **PsyFEM_Concept_Publication.pdf**  
-  → Abstrakte Konzeptdarstellung des PsyFEM-Systems ohne technische Implementierungsdetails.
+This is not an open-source repository. No software implementation is provided. The
+public documents describe selected aspects of PsyFEM at a bounded level of detail.
+Internal implementation, validation material and development documentation remain
+private.
 
-- **Technical_Overview_Whitepaper.pdf**  
-  → Überblicksdokument mit einer verständlichen, aber dennoch formalen Beschreibung der Architektur, der zentralen Systemkomponenten und der theoretischen Grundlagen von PsyFEM.
+For permitted and prohibited uses, see [LICENSE.txt](LICENSE.txt).
 
+The public availability of a document may be relevant to a prior-art assessment, but
+this repository does not make a legal determination that any particular statement is
+patent-defeating prior art. See the [Publication and IP Notice](docs/PUBLICATION_AND_IP_NOTICE.md).
 
+## Contact
 
+For professional inquiries regarding research exchange, cooperation or licensing:
 
-
-
-Optional / später:
-
-- **PsyFEM_Business_Usecases.pdf**  
-  → mögliche Anwendungsfelder (nicht technisch)
-
----
-
-## 🔹 Hinweis
-
-Dieses Repository ist **keine Software** und beinhaltet keinerlei Implementierungsdetails.  
-Es dient ausschließlich der konzeptionellen Veröffentlichung und Prior-Art-Dokumentation.
-
----
-
-## 🔹 Lizenz / Nutzung
-
-Alle Inhalte sind urheberrechtlich geschützt.  
-Die Nutzung, Reproduktion oder Integration ist ohne schriftliche Zustimmung des Autors  
-nicht gestattet.  
-Siehe `LICENSE.txt`.
-
----
-
-## 🔹 Kontakt
-
-Für fachlichen Austausch oder Rückfragen zum Konzept 
-kann gerne Kontakt aufgenommen werden:
-
-📧 E-Mail: etienne.p@hotmail.de
-
-
----
-
-Danke für das Interesse — weitere Veröffentlichungen können zu einem späteren Zeitpunkt folgen.
-
-
+Étienne Prieckaerts<br>
+Email: etienne.p@hotmail.de

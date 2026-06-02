@@ -1,89 +1,52 @@
-PROPRIETARY RESEARCH DISCLOSURE LICENSE (PRDL-1.0)
+PROPRIETARY RESEARCH DISCLOSURE NOTICE
 
-(Non-Open-Source / Defensive Publication License)
+(Publicly Readable / Not Open Source)
 
-Copyright (c) 2025 Étienne Prieckaerts.
+Copyright (c) 2025-2026 Étienne Prieckaerts.
 All rights reserved.
 
-This repository constitutes a research disclosure (“Defensive Publication”) for the concept known as PsyFEM / Psy-FEM-5D.
-It is not open source. No rights are granted beyond the explicitly stated permissions below.
+This repository contains a curated public research disclosure for the concept known as
+PsyFEM / Psy-FEM-5D. It is publicly readable, but it is not an open-source software
+repository. No source code is published here.
 
-1. Permitted Actions (Limited Rights)
+1. Permitted Public Use
 
-You are permitted to:
+You may:
 
-Read the contents of this repository.
+- read the public materials;
+- share links to this repository in their original form;
+- cite the public materials with appropriate attribution; and
+- quote limited excerpts where permitted by applicable law.
 
-Share a link to this repository in its original, unmodified form.
+2. No License to Protected Materials or Private Implementation
 
-Cite this repository as a conceptual disclosure (e.g., in academic work), provided that the author is credited.
+Except where applicable law permits otherwise, no license is granted to reproduce,
+redistribute, modify, translate or adapt the copyrighted text, graphics or other
+protected expression contained in this repository.
 
-No other rights are granted.
+No license is granted to any unpublished source code, private documentation, datasets,
+operational artifacts, trademarks, patent rights or trade secrets.
 
-2. Prohibited Actions (Strict Restrictions)
+3. Scope of This Notice
 
-Unless you have explicit written permission from the author, you are NOT permitted to:
+This notice does not claim copyright protection for abstract ideas, facts, systems,
+procedures or methods of operation. Applicable rights in technical implementations,
+protected expression and non-public know-how remain reserved.
 
-Use the concept or any part of it for technical implementation, prototyping, research, development, or experimentation.
-
-Reproduce, copy, or redistribute the content (in whole or in part), except for linking as allowed above.
-
-Modify, translate, transform, or adapt the content.
-
-Implement, simulate, or reverse-engineer any mechanisms, processes, or system behaviors described in this disclosure.
-
-Create derivative works based on the concepts presented.
-
-Apply the ideas commercially, including but not limited to:
-
-software products
-
-AI systems
-
-analytical tools
-
-business processes
-
-research programs
-
-File patents or patent applications that use, extend, or are based on any idea described herein.
-
-Any such actions constitute a violation of this license.
-
-3. Purpose of This License
-
-This repository serves as a Defensive Publication, meaning:
-
-It documents authorship and conceptual priority.
-
-It prevents others from claiming novelty over the core ideas contained herein.
-
-It does not grant others the right to implement or use these ideas.
-
-This work remains proprietary intellectual property of the author.
+Public availability of a document may be relevant to a prior-art assessment. This
+notice does not guarantee that any particular document or statement satisfies the legal
+requirements for prior art, nor does it replace professional legal advice.
 
 4. No Warranty / No Liability
 
-This research disclosure is provided “as is”, without warranties of any kind, express or implied.
-The author is not liable for any use, misuse, or interpretation of the content.
+The public materials are provided "as is", without warranties of any kind, express or
+implied. The author is not liable for use, misuse or interpretation of the materials.
 
-5. No Implied Rights
+5. Contact
 
-Nothing in this license should be interpreted as:
-
-granting permission to use the ideas commercially or technically,
-
-placing the work in the public domain,
-
-permitting open-source use,
-
-or waiving any of the author's intellectual property rights.
-
-6. Contact for Licensing
-
-To request commercial, research, or technical usage rights, please contact:
+For professional inquiries regarding research exchange, cooperation or licensing:
 
 Étienne Prieckaerts
-(Author & Rights Holder)
+Email: etienne.p@hotmail.de
 
-END OF LICENSE
+END OF NOTICE

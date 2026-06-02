@@ -1,0 +1,23 @@
+# Local drafts and private material
+internal/
+private/
+drafts/
+docs/private/
+reports_internal/
+output/
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+
+# Temporary and generated files
+tmp/
+*.log
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
